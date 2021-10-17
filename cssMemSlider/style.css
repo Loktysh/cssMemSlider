@@ -90,7 +90,7 @@
     grid-column: 1;
     grid-row: 1;
     opacity: 0;
-    transition: opacity 1.25s;
+    transition: opacity 3s;
   }
   
   .featured-wrapper .arrows label::before,
